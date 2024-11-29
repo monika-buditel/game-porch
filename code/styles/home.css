@@ -1,8 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 
 html {
-    /* background-color: white; */
+    background-color: #0f2343;
     color: white;
+    width: 100%;
+}
+
+body {
+    margin-top: unset;
+    margin-bottom: unset;
+    width: 105%;
+    margin-left: -10px;
 }
 
 * {
@@ -13,16 +21,33 @@ html {
 }
 
 nav ul {
-    width: 80%;
-    margin-left: auto;
+    width: 90%;
+    margin-left: 0px;
     margin-right: auto;
 
     display: flex;
     justify-content: space-between;
+    align-content: center;
 
     font-size: 20px;
 
     list-style-type: none;
+}
+
+.menu-div {
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+li {
+    font-size: 25px;
+}
+
+li:hover {
+    color: #3476e1;
+    cursor: pointer;
 }
 
 nav {
@@ -59,7 +84,7 @@ article {
 footer {
     border-radius: 20px 20px 0px 0px;
 
-    /* margin-top: -20px; */
+    margin-top: -20px;
     margin-left: -0.3vw;
     width: 100vw;
     padding: 20px;
@@ -118,7 +143,15 @@ footer {
 }
 
 #title {
-    background: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.pixexid.com%2Fgroup-of-friends-playing-board-games-young-people-at-game-night-friends-gather-gtfxffwa.jpeg&f=1&nofb=1&ipt=f8a220effdf92d460b87386b002c2f2f744a19134bc799836ef642e2be26d722&ipo=images');
+    /* background: url('https://cdn.wallpapersafari.com/34/94/8rJYxe.png'); */
+    background: url('../images/black-abstract-gradient-background-free-vector-blue-2.png');
+    /* background: url('https://static.vecteezy.com/system/resources/previews/003/550/596/original/abstract-modern-diagonal-blue-gradient-and-texture-background-free-vector.jpg'); */
+    /* background: url('https://wallpapercave.com/wp/wp11387874.jpg'); */
+    /* background: url('https://static.vecteezy.com/system/resources/previews/026/321/977/non_2x/abstract-grainy-gradient-background-with-vibrant-colors-free-vector.jpg'); */
+    /* background-position-y: 50%; */
+    /* -webkit-backdrop-filter: brightness(3); */
+    /* backdrop-filter: brightness(3); */
+    /* background: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.pixexid.com%2Fgroup-of-friends-playing-board-games-young-people-at-game-night-friends-gather-gtfxffwa.jpeg&f=1&nofb=1&ipt=f8a220effdf92d460b87386b002c2f2f744a19134bc799836ef642e2be26d722&ipo=images'); */
     background-size: cover;
 }
 
@@ -148,9 +181,24 @@ button {
     font-size: 40px;
     padding: 20px;
 
-    background-color: white;
-    color: black;
+    background: linear-gradient(#00251a, #02112c);
+    color: white;
+    /* font-weight: 900; */
     border-radius: 20px;
+
+    cursor: pointer;
+}
+
+button:hover {
+    font-size: 40px;
+    padding: 20px;
+
+    background: linear-gradient(#00714d, #052c6f);
+    color: white;
+    font-weight: 600;
+    border-radius: 20px;
+
+    cursor: pointer;
 }
 
 #join-us-text {

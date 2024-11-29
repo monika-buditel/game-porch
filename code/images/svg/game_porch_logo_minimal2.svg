@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="230mm"
+   height="65mm"
+   viewBox="0 0 230 65"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="game_porch_logo_minimal2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="531.39075"
+     inkscape:cy="179.25157"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient16"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#e242ff;stop-opacity:0.39412999;"
+         offset="0.51107597"
+         id="stop16" />
+      <stop
+         style="stop-color:#5c4fff;stop-opacity:1;"
+         offset="1"
+         id="stop17" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient15"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#3c61fe;stop-opacity:1;"
+         offset="0"
+         id="stop14" />
+      <stop
+         style="stop-color:#36d149;stop-opacity:1;"
+         offset="1"
+         id="stop15" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient13"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#3c61fe;stop-opacity:1;"
+         offset="0"
+         id="stop12" />
+      <stop
+         style="stop-color:#3ed136;stop-opacity:1;"
+         offset="1"
+         id="stop13" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#3c61fe;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#d13636;stop-opacity:1;"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient13"
+       id="linearGradient3"
+       x1="43.288403"
+       y1="103.16501"
+       x2="180.18394"
+       y2="103.16501"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4510425,0,0,1.4510425,-57.306231,-106.9649)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="linearGradient8"
+       x1="58.839699"
+       y1="119.35467"
+       x2="117.78612"
+       y2="119.35467"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15"
+       id="linearGradient12"
+       x1="58.839699"
+       y1="119.35467"
+       x2="117.78612"
+       y2="119.35467"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4525279,0,0,1.4525279,-3.4107837,-126.07444)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient16"
+       id="radialGradient17"
+       cx="127.40718"
+       cy="69.038925"
+       fx="127.40718"
+       fy="69.038925"
+       r="90.851982"
+       gradientTransform="matrix(1,0,0,0.9155912,0,5.8274928)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15"
+       id="linearGradient21"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4525279,0,0,1.4525279,-3.4107837,-126.07444)"
+       x1="58.839699"
+       y1="119.35467"
+       x2="117.78612"
+       y2="119.35467" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15"
+       id="linearGradient22"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4525279,0,0,1.4525279,-3.4107837,-126.07444)"
+       x1="58.839699"
+       y1="119.35467"
+       x2="117.78612"
+       y2="119.35467" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient13"
+       id="linearGradient23"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4510425,0,0,1.4510425,-57.306231,-106.9649)"
+       x1="43.288403"
+       y1="103.16501"
+       x2="180.18394"
+       y2="103.16501" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:url(#radialGradient17);stroke-width:20;stroke-dasharray:none;stroke-opacity:1"
+       id="path15"
+       sodipodi:cx="119.73675"
+       sodipodi:cy="76.706352"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="92.579216"
+       sodipodi:argument="-18.064157"
+       sodipodi:t0="0"
+       d="m 119.73675,76.706352 c 3.28223,3.282231 -2.80505,6.043717 -5.45529,5.455281 -7.18198,-1.594624 -8.33652,-10.793848 -5.45527,-16.365849 5.15388,-9.967003 18.53738,-11.134631 27.27641,-5.455275 12.82488,8.334683 14.01567,26.385972 5.45527,38.18698 C 130.14821,114.25638 107.28602,115.45953 92.460327,103.98276 73.803701,89.540414 72.593637,61.807261 87.005061,43.974648 104.45923,22.376963 137.09422,21.162723 157.92374,38.519384 182.4706,58.973609 183.68754,96.52844 163.379,120.34863 139.93198,147.84997 97.445875,149.06874 70.639191,125.80388 40.179732,99.368869 38.959659,51.94377 65.183936,22.153511 94.603613,-11.266657 146.97318,-12.487686 179.74487,16.69826 c 36.3828,32.401931 37.60455,89.71997 5.45525,125.4715"
+       transform="matrix(1.2358394,0,0,0.37019887,-43.061507,7.0887573)" />
+    <path
+       style="opacity:0;fill:#5491d7;fill-opacity:1;stroke:none;stroke-width:96.9876;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.140909;paint-order:stroke fill markers"
+       d="m 29.628531,69.281813 c 0.787291,-12.54266 4.709919,-70.6094246 17.414732,-74.0008977 9.385101,-2.505321 17.583626,-1.926078 18.568566,1.936488 2.351629,9.222411 48.040671,7.137408 49.834611,-0.31214 1.08752,-4.515927 8.94707,-4.766994 20.11263,-2.876323 10.70989,1.813502 25.84288,78.5742227 18.54968,81.1138227 -12.5543,4.37166 -12.74245,4.11987 -24.11245,-7.52746 -7.40164,-7.58217 -7.67262,-13.70774 -19.06044,-13.56538 -16.145917,0.2018 -15.974117,0.10936 -35.381912,0.17968 -6.291935,0.0225 -16.077268,9.82343 -21.068504,18.3943 -3.869118,6.64399 -25.447893,6.07304 -24.856913,-3.34205 z"
+       id="path11"
+       sodipodi:nodetypes="ssssssssssss" />
+    <text
+       xml:space="preserve"
+       style="font-size:20.4967px;font-family:'Bungee Shade';-inkscape-font-specification:'Bungee Shade, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;fill:url(#linearGradient21);fill-opacity:1;stroke:#ace6b1;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="124.85588"
+       y="53.553307"
+       id="text21"><tspan
+         sodipodi:role="line"
+         id="tspan21"
+         style="fill:url(#linearGradient21);fill-opacity:1;stroke:#ace6b1;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+         x="124.85588"
+         y="53.553307">PORCH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20.4967px;font-family:'Bungee Shade';-inkscape-font-specification:'Bungee Shade, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;fill:url(#linearGradient22);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="124.85588"
+       y="53.553307"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="fill:url(#linearGradient22);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+         x="124.85588"
+         y="53.553307">PORCH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:31.6559px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;fill:url(#linearGradient23);stroke:#a6ffcc;stroke-width:8.2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="105.52409"
+       y="31.00898"
+       id="text20"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.6559px;font-family:'Bungee Shade';-inkscape-font-specification:'Bungee Shade, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient23);fill-opacity:1;stroke:#a6ffcc;stroke-width:8.2;stroke-dasharray:none;stroke-opacity:1"
+         x="105.52409"
+         y="31.00898"
+         id="tspan20">GAME</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:31.6559px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;fill:url(#linearGradient3);stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="105.52409"
+       y="31.00898"
+       id="text5"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.6559px;font-family:'Bungee Shade';-inkscape-font-specification:'Bungee Shade, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient3);fill-opacity:1;stroke:#000000;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+         x="105.52409"
+         y="31.00898"
+         id="tspan5">GAME</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20.4967px;font-family:'Bungee Shade';-inkscape-font-specification:'Bungee Shade, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;fill:url(#linearGradient12);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="124.85588"
+       y="53.553307"
+       id="text19"><tspan
+         sodipodi:role="line"
+         id="tspan19"
+         style="fill:url(#linearGradient12);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+         x="124.85588"
+         y="53.553307">PORCH</tspan></text>
+  </g>
+</svg>
