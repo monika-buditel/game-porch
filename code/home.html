@@ -5,37 +5,46 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Event Page</title>
     <link rel="stylesheet" href="styles/home.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
     <header>
         <nav>
             <ul>
-                <li>
-                    GamePorch
-                </li>
+                <div>
+                    <li>
+                        <img src="images/svg/game_porch_logo_minimal2.svg" width="200px">
+                    </li>
+                </div>
 
-                <li>
-                    Events
-                </li>
-                <li>
-                    Games
-                </li>
-                <li>
-                    About
-                </li>
+                <div class="menu-div">
+                    <li>
+                        Events
+                    </li>
+                    <li>
+                        Games
+                    </li>
+                    <li>
+                        About
+                    </li>
+                </div>
 
-                <li>
-                    👤
-                </li>
+                <div style="display: flex; align-items: center;">
+                    <li>
+                        👤
+                    </li>
+                </div>
             </ul>
         </nav>
     </header>
 
     <main>
         <div class="title-card" id="title">
-            <h1 id="title-h1">
-                Game Porch
-            </h1>
+            <!-- <h1 id="title-h1"> -->
+                <!-- Game Porch -->
+            <!-- </h1> -->
+
+            <img id="title-h1" src="images/svg/game_porch_logo.svg">
         </div>
         
         <article>
@@ -51,7 +60,7 @@
             </section>
 
             <section class="mantra">
-                <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F1499953403%2Fphoto%2Fgroup-of-friends-having-fun-playing-video-games-at-home-at-night.jpg%3Fs%3D170667a%26w%3D0%26k%3D20%26c%3Df3Xt0Mmh4tDAEHCUpLPeVKEQTeFrFrpTkytR2ZlY6fY%3D&f=1&nofb=1&ipt=229f99f2dd1a728688dee34c8bba06b94a84a442a7f24c23f05cb4a8042ab2fd&ipo=images">
+                <img src="images/people_playing_games.jpg">
 
                 <div>
                     <h1 class="text-shadow">Want to join us today?</h1>
@@ -75,8 +84,21 @@
     </main>
     
     <footer>
-        © Game Porch 2024 <br>
-        📞0891234567
+        <div>
+            Follow us on our social media accounts to stay up to date
+
+            <div class="icons">
+                <i class="fa-brands fa-instagram"></i>
+                <i class="fa-brands fa-facebook"></i>
+                <i class="fa-brands fa-tiktok"></i>
+                <i class="fa-brands fa-twitter"></i>
+            </div>
+        </div>
+
+        <div>
+            © Game Porch 2024 <br>
+            📞0891234567
+        </div>
     </footer>
 </body>
 </html>

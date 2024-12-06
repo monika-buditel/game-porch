@@ -6,10 +6,14 @@ html {
     width: 100%;
 }
 
+.container {
+    padding: 40px;
+}
+
 body {
     margin-top: unset;
     margin-bottom: unset;
-    width: 105%;
+    /* width: 105%; */
     margin-left: -10px;
 }
 
@@ -68,9 +72,11 @@ section {
 
     background-color: black;
 
-    padding: 20px;
+    padding: 60px;
 
     border-radius: 20px;
+
+    box-shadow: #224e96 0px 0px 200px 0px;
 
     /* border: 1px solid white; */
 }
@@ -97,6 +103,21 @@ footer {
     justify-content: space-between;
 }
 
+.event-card {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.event-card div img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.img-container {
+    border-radius: 20px;
+    box-shadow: blue 0px 0px 200px 0px, white 0px 0px 30px 0px;
+}
+
 .mantra img {
     width: 60%;
     object-fit: cover;
@@ -116,6 +137,11 @@ footer {
     padding: 0px;
 
     font-size: 24px;
+}
+
+h2 {
+    font-size: 42px;
+    margin: unset;
 }
 
 .title-card h1 {
@@ -183,7 +209,7 @@ footer {
 }
 
 button {
-    font-size: 40px;
+    /* font-size: 40px; */
     padding: 20px;
 
     background: linear-gradient(#00251a, #02112c);
@@ -195,7 +221,7 @@ button {
 }
 
 button:hover {
-    font-size: 40px;
+    /* font-size: 40px; */
     padding: 20px;
 
     background: linear-gradient(#00714d, #052c6f);
